@@ -1,5 +1,5 @@
 # ADDIDAS-STORE-PERFORMANCE-ANAYSIS-FOR-2023
-ntroduction
+Introduction
 
 Adidas is a globally recognized sportswear brand known for its high-quality athletic apparel, footwear, and accessories. Founded in Germany in 1949, Adidas has become synonymous with innovation, performance, and style in the sports and lifestyle industry. The Adidas store serves as a retail hub that offers customers a wide range of products tailored to various sports, fitness needs, and fashion preferences. The store not only represents the brand’s commitment to quality but also provides an immersive experience where customers can explore the latest products, technologies, and designs.
 
